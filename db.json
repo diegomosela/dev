@@ -1,0 +1,20 @@
+{
+    "hoteis": [
+        {
+            "name": "Hotel Fazenda Areia que Canta",
+            "type": "Hotel Fazenda",
+            "address": "Rodovia Eng. Paulo Nilo Romano (SP 225, Km 124,5, Brotas - SP, 17380-000",
+            "lat": "-22.3158528",
+            "lng": "-48.0548617",
+            "link": "https://site.com.br"
+        },
+        {
+            "name": "Alvorada Palace Hotel",
+            "type": "Hotel",
+            "address": "R. Primeiro de Agosto, 6-9 - Centro, Bauru - SP, 17010-011",
+            "lat": "-22.3196138",
+            "lng": "-49.0728289",
+            "link": "https://site.com.br"
+        }
+    ]
+}
